@@ -1,0 +1,5 @@
+{
+  "name": "mos-store",
+  "private": true,
+  "scripts": {"check": "node --check js/app.js"}
+}
